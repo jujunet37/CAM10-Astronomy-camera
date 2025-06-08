@@ -5,7 +5,7 @@ CAUTION : For Autoguiding use the ASCOM version. The COM version is only for sta
 
 # Cam10 COM version :
 
-Description : This camera can be use for planetary Imaging, there is no ASCOM driver. The viewer communicate with a virtual serial port COM. Using the pcb provided by grim I made a 3D printed enclosure for this camera. All parts needed are in the folder.
+Description : This camera can be use for planetary Imaging, there is no ASCOM driver. The viewer communicate with a virtual serial COM port. Using the pcb provided by grim I made a 3D printed enclosure for this camera. All parts needed are in the folder.
 
 # Folders :
 
