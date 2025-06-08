@@ -25,7 +25,7 @@ Description : This camera can be used for both planetary imaging and autoguiding
 - ASCOM driver : This is the ascom driver to make it communicate with all astronomy softwares (Sharpcap, OpenNebulosity, PHD2). Version 0.5
 - Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
 - Firmware + MPROG : This is the firmware and the programming utility for flashing the FT2232 chip
-- FT2232 Driver : Drivers for Windows for the FT2232. Provided 2 drivers, you can check for updates on FTDI website, type FT2232HL and install last drivers. WARNING : Since several years FTDI brick non genuine chips. If you purchased your chip on an official reseller, you can update to last driver. If you chip comes from Aliexpress or EBay, be careful about that, if you have any doubt, install the 2.08 provided driver.
+- FT2232 Driver : Drivers for Windows for the FT2232. I provided 2 drivers, you can check for updates on FTDI website, type FT2232HL and install lastest drivers. WARNING : Since several years FTDI brick non genuine chips. If you purchased your chip on an official reseller, you can update to last driver. If your chip comes from Aliexpress or EBay, be careful about that, if you have any doubt, install the 2.08 provided driver.
 - Old ASCOM Platform : This is the old ASCOM platform that works with this camera, not tested with newer versions.
 - PCB Gerber file : The Gerber file to make the PCB
 - Schema : Original diagram by grim
@@ -44,4 +44,4 @@ French : https://www.youtube.com/watch?v=oHPourlEOjQ
 English : https://www.youtube.com/watch?v=FNpK9c-Fqkc
 
 Astroccd : http://astroccd.org/
-Ukrainian Astropolis topic : https://www.astroclub.kiev.ua/forum/i...
+Ukrainian Astropolis topic : https://www.astroclub.kiev.ua/forum/index.php?PHPSESSID=su8vh9h1n0l7lrnate4rmb50v5&topic=28929.0
