@@ -9,11 +9,11 @@ Description : This camera can be use for planetary Imaging, there is no ASCOM dr
 
 ## Folders :
 
-	- Cam 10 COM Viewer : The viewer, it's a standalone viewer developped by grim to capture images on jpg, bmp, fit and ser formats. ROI capability and exposure / ISO settings. Gain/offset/delta/timer parameters.
-	- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
-	- Firmware : The firmware and the utility to flash it on the camera (ST-LINK)
-	- PCB Gerber File : The Gerber file to make the PCB
-	- STL files Cam10 COM version : The stl files to print the enclosure
+- Cam 10 COM Viewer : The viewer, it's a standalone viewer developped by grim to capture images on jpg, bmp, fit and ser formats. ROI capability and exposure / ISO settings. Gain/offset/delta/timer parameters.
+- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
+- Firmware : The firmware and the utility to flash it on the camera (ST-LINK)
+- PCB Gerber File : The Gerber file to make the PCB
+- STL files Cam10 COM version : The stl files to print the enclosure
 
 
 # Cam10 ASCOM version :
@@ -22,15 +22,15 @@ Description : This camera can be used for both planetary imaging and autoguiding
 
 ## Folders :
 
-	- ASCOM driver : This is the ascom driver to make it communicate with all astronomy softwares (Sharpcap, OpenNebulosity, PHD2). Version 0.5
-	- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
-	- Firmware + MPROG : This is the firmware and the programming utility for flashing the FT2232 chip
-	- FT2232 Driver : Drivers for Windows for the FT2232. Provided 2 drivers, you can check for updates on FTDI website, type FT2232HL and install last drivers. WARNING : Since several years FTDI brick non genuine chips. If you purchased your chip on an official reseller, you can update to last driver. If you chip comes from Aliexpress or EBay, be careful about that, if you have any doubt, install the 2.08 provided driver.
-	- Old ASCOM Platform : This is the old ASCOM platform that works with this camera, not tested with newer versions.
-	- PCB Gerber file : The Gerber file to make the PCB
-	- Schema : Original diagram by grim
-	- STL Files CAM 10 ASCOM : The stl files to print the enclosure
-	- Viewer Source and Exec : Viewer souce files and main executable.
+- ASCOM driver : This is the ascom driver to make it communicate with all astronomy softwares (Sharpcap, OpenNebulosity, PHD2). Version 0.5
+- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
+- Firmware + MPROG : This is the firmware and the programming utility for flashing the FT2232 chip
+- FT2232 Driver : Drivers for Windows for the FT2232. Provided 2 drivers, you can check for updates on FTDI website, type FT2232HL and install last drivers. WARNING : Since several years FTDI brick non genuine chips. If you purchased your chip on an official reseller, you can update to last driver. If you chip comes from Aliexpress or EBay, be careful about that, if you have any doubt, install the 2.08 provided driver.
+- Old ASCOM Platform : This is the old ASCOM platform that works with this camera, not tested with newer versions.
+- PCB Gerber file : The Gerber file to make the PCB
+- Schema : Original diagram by grim
+- STL Files CAM 10 ASCOM : The stl files to print the enclosure
+- Viewer Source and Exec : Viewer souce files and main executable.
 
 ## Softwares folder : 
 
