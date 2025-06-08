@@ -34,7 +34,7 @@ Description : This camera can be used for both planetary imaging and autoguiding
 
 ## Softwares folder : 
 
-	- This is PHD first version (very hard to found on the web). Use for the workaround to make the ascom parameter works in PHD2. Look at YouTube video link below.
+- This is PHD first version (very hard to found on the web). Use for the workaround to make the ascom parameter works in PHD2. Look at YouTube video link below.
 
 Links :
 
