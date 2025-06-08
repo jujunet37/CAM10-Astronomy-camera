@@ -34,5 +34,10 @@ Description : This camera can be used for both planetary imaging and autoguiding
 
 Links :
 
+Youtube tutorials :
+
+French : https://www.youtube.com/watch?v=oHPourlEOjQ
+English : https://www.youtube.com/watch?v=FNpK9c-Fqkc
+
 Astroccd : http://astroccd.org/
 Ukrainian Astropolis topic : https://www.astroclub.kiev.ua/forum/i...
