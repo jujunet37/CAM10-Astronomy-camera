@@ -7,7 +7,7 @@ CAUTION : For Autoguiding use the ASCOM version. The COM version is only for sta
 
 Description : This camera can be use for planetary Imaging, there is no ASCOM driver. The viewer communicate with a virtual serial COM port. Using the pcb provided by grim I made a 3D printed enclosure for this camera. All parts needed are in the folder.
 
-# Folders :
+## Folders :
 
 	- Cam 10 COM Viewer : The viewer, it's a standalone viewer developped by grim to capture images on jpg, bmp, fit and ser formats. ROI capability and exposure / ISO settings. Gain/offset/delta/timer parameters.
 	- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
@@ -20,7 +20,7 @@ Description : This camera can be use for planetary Imaging, there is no ASCOM dr
 
 Description : This camera can be used for both planetary imaging and autoguiding. A viewer can be used for standalone acquisition. An ASCOM driver is provided, works with ASCOM 6.2. I used the original wiring from grim and corrected a missing track. I made a new corrected PCB with mounting holes to install a heatsink. I also made an 3D printed enclosure.
 
-# Folders :
+## Folders :
 
 	- ASCOM driver : This is the ascom driver to make it communicate with all astronomy softwares (Sharpcap, OpenNebulosity, PHD2). Version 0.5
 	- Components list : I provided the list of elements, with screen captures to avoid dead links, so you can easyly retrieve the parts needed.
