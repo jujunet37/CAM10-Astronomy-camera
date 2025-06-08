@@ -1,6 +1,6 @@
 # CAM10-Astronomy-camera
 
-## This repository contains all files needed to build two differents monochrome Cam10 cameras with a resolution of 1280x1024. Original wiring diagram was made by grim from Astroclub.kiev.ua.
+## This repository contains all files needed to build two differents astronomy monochrome Cam10 cameras with a resolution of 1280x1024. Original wiring diagram was made by grim from Astroclub.kiev.ua.
 CAUTION : For Autoguiding use the ASCOM version. The COM version is only for standalone use with the viewer.
 
 # Cam10 COM version :
