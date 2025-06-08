@@ -1,0 +1,60 @@
+Number	Size          	Value            Ref Farnell/Aliexpress
+_____________________________________________
+
+C1   	CAP_0603     	105   1µF  
+C3   	CAP_1206     	107   100µF
+C4   	CAP_1206     	107   100µF
+C5   	CAP_0603     	105   1µF
+C6   	CAP_0603     	105   1µF 
+C7   	CAP_0603     	105   1µF  
+C8   	CAP_0603     	105   1µF
+C9   	CAP_0603     	105   1µF    
+C31  	CAP_0603     	8p2   8.2pF           
+C32  	CAP_0603     	8p2   8.2pF           
+C33  	CAP_0603     	105   1µF             
+C34  	CAP_0603     	105   1µF             
+C36  	SIZE D       	107   100µF           
+C39  	CAP_0603     	105   1µF           
+R1   	RES_0603     	103   10kO           
+R2   	RES_0603     	333   33kO      
+R3   	RES_0603     	103   10kO         
+R14  	RES_0603     	222   2.2kO      
+R15  	RES_0603     	106   10MO           
+R16  	RES_0603     	123   12kO  
+U1   	MT9M001C12STM                 
+U2   	Micro JST 1.25 3 pin
+U3   	Micro JST 1.25 4 pin
+U4   	TESTPOINT2   	     
+U5   	STM32F446RCT6	            
+U6   	LM1117-3.3   	               
+U8   	USB3300      	               
+Y2   	24MTSX             
+
+Bill of mats :
+
+Number	Size          	Value        Number    Ref Farnell/Aliexpress
+
+ 
+C3   	CAP_1206     	107   100µF   	2	4128589      
+C31  	CAP_0603     	8p2   8.2pF     2	3790636                
+C33  	CAP_0603     	105   1µF       9	2112858      
+C36  	SIZE D       	107   100µF     1	197348         
+R1   	RES_0603     	103   10kO      2	2502926     
+R2   	RES_0603     	333   33kO      1	3994549       
+R14  	RES_0603     	222   2.2kO     1	3994460
+R15  	RES_0603     	106   10MO	1	9238964         
+R16  	RES_0603     	123   12kO 	1	2333583
+U1   	MT9M001C12STM                 	1	Aliexpress : Small Li Sen Store
+U2   	Micro JST 1.25 3 pin		1	Aliexpress : More Connectors Store
+U3   	Micro JST 1.25 4 pin  	     	1	Aliexpress : More Connectors Store
+U5   	STM32F446RCT6	            	1	Aliexpress : EC-Buying Ali Store
+U6   	LM1117-3.3   	               	1	Aliexpress : Shop130245 Store
+U8   	USB3300      	               	1	Aliexpress : WANXINDA Official Store
+Y2   	24MTSX         			1	2853960   
+USB Connector				1	3490505   
+Screw 10mmx1.6mm, washer and nut	6	Aliexpress : CLOXY Hardware Store
+T2 ring					1	Aliexpress : LING-SHI Store
+Heatsink				1	Aliexpress : Cooltex Thermal Management Store
+Glass					1	Aliexpress : SZ-TOP Store
+STlink USB Key				1	Aliexpress : TENSAR ROBOT GREAT WALL Store
+USB Cable A to B Male - Male		1	Aliexpress : QGeeM Offcial Store
