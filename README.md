@@ -32,6 +32,10 @@ Description : This camera can be used for both planetary imaging and autoguiding
 	- STL Files CAM 10 ASCOM : The stl files to print the enclosure
 	- Viewer Source and Exec : Viewer souce files and main executable.
 
+## Softwares folder : 
+
+	- This is PHD first version (very hard to found on the web). Use for the workaround to make the ascom parameter works in PHD2. Look at YouTube video link below.
+
 Links :
 
 Youtube tutorials :
