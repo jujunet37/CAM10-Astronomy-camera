@@ -3,6 +3,16 @@
 ## This repository contains all files needed to build two differents astronomy monochrome Cam10 cameras with a resolution of 1280x1024. Original wiring diagram was made by grim from Astroclub.kiev.ua.
 CAUTION : For Autoguiding use the ASCOM version. The COM version is only for standalone use with the viewer.
 
+## UPDATE 07/10/2025 :
+
+The driver has been updated to work with PHD2. The workaround with PHD1 explained in the video is not necessary anymore. 
+Driver version 0.5 didn't work because camera settings woulnd't open, and camera settings button was grayed out.
+I made modifications on this driver to open the camera settings on loading. So now you can tune the image directly in PHD2.
+Enjoy !
+
+Note : I noticed my anti virus show a false positive on my mini PC (Windows Defender). It's normal with ASCOM unsigned drivers.
+You can put it in white list to install if you have the message.
+
 # Cam10 COM version :
 
 Description : This camera can be use for planetary Imaging, there is no ASCOM driver. The viewer communicate with a virtual serial COM port. Using the pcb provided by grim I made a 3D printed enclosure for this camera. All parts needed are in the folder.
